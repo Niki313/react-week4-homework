@@ -11,15 +11,15 @@ export default function App() {
         <div class="weather-forecast" id="forecast"></div>
         <footer>
           <div class="copyright">
-            © Create by_
+            {/* © Create by_ */}
             <a
-              href="https://www.linkedin.com/in/nataliia-dorosh/"
-              title="Profile Nataliia Dorosh"
+              href="https://github.com/Niki313/react-week4-homework.git"
+              title="GitHub"
               target="_blank" rel="noopener noreferrer"
             >
-              Nataliia Dorosh
+              GitHub
             </a>
-            _2022
+            {/* _2022 */}
           </div>
         </footer>
       </div>
